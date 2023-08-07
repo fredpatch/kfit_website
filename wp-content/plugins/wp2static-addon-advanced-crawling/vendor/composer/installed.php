@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'type' => 'wordpress-plugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => NULL,
+        'name' => 'wp2static/wp2static-addon-advanced-crawling',
+        'dev' => false,
+    ),
+    'versions' => array(
+        'masterminds/html5' => array(
+            'pretty_version' => '2.7.4',
+            'version' => '2.7.4.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../masterminds/html5',
+            'aliases' => array(),
+            'reference' => '9227822783c75406cfe400984b2f095cdf03d417',
+            'dev_requirement' => false,
+        ),
+        'wa72/url' => array(
+            'pretty_version' => 'v0.7.1',
+            'version' => '0.7.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../wa72/url',
+            'aliases' => array(),
+            'reference' => '9ae182a0e3408ca8956186eafbbc497144d27d44',
+            'dev_requirement' => false,
+        ),
+        'wp2static/wp2static-addon-advanced-crawling' => array(
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => NULL,
+            'dev_requirement' => false,
+        ),
+    ),
+);
