@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Uncategorised &#8211; Press</title>
-	<atom:link href="httpfredpatch.github.io/kfit_website//category/uncategorised/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/kfit_website/category/uncategorised/feed/" rel="self" type="application/rss+xml" />
 	<link>httpfredpatch.github.io/kfit_website/</link>
 	<description></description>
 	<lastBuildDate>Tue, 01 Aug 2023 00:49:06 +0000</lastBuildDate>
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>httpfredpatch.github.io/kfit_website//hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/kfit_website/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
